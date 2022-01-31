@@ -7,8 +7,10 @@
           "stepDuration": "1",
           "validators": {
             "list": [
-              "0x6ec63098aa253fe2d1c003d88f8bbadd6807ff0c",
-              "0xc47a9ba83ef32d136bc8f623f4225237ff7bcfd7"
+              "0x6624688a9294571ea8376f2ba26c4fd450a5c1ab",
+              "0xc47a9ba83ef32d136bc8f623f4225237ff7bcfd7",
+              "0xfd078fb1ad8580126718f4b398ac52d7267f9d1d",
+              "0x324bdd8f3e37ce5e41bfb397a42c2276ad753280"
             ]
           }
         }

@@ -40,7 +40,7 @@ services:
       PORT: 30316
       RUST_BACKTRACE: 1
     volumes:
-      - ./config1.toml:/openethereum/config.toml
+      - ./config2.toml:/openethereum/config.toml
       - ./genesis.json:/openethereum/genesis.json
       - ./password:/openethereum/password
       - ./nodes:/openethereum/nodes
@@ -64,7 +64,7 @@ services:
       PORT: 30317
       RUST_BACKTRACE: 1
     volumes:
-      - ./config1.toml:/openethereum/config.toml
+      - ./config3.toml:/openethereum/config.toml
       - ./genesis.json:/openethereum/genesis.json
       - ./password:/openethereum/password
       - ./keys3:/openethereum/keys
@@ -88,7 +88,7 @@ services:
       PORT: 30318
       RUST_BACKTRACE: 1
     volumes:
-      - ./config1.toml:/openethereum/config.toml
+      - ./config4.toml:/openethereum/config.toml
       - ./genesis.json:/openethereum/genesis.json
       - ./password:/openethereum/password
       - ./nodes:/openethereum/nodes
